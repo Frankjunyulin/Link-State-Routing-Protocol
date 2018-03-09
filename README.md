@@ -1,5 +1,5 @@
 # Link-State-Routing-Protocol
-It is Link State Routing protocol wrote by java
+It is am inplemention of Link State Routing protocol in java.
 
 Lsr.java is the main program. 
 
